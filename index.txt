@@ -1,0 +1,64 @@
+(base) mahendrapatel@Mac project % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	index.html
+	p1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+(base) mahendrapatel@Mac project % git add .
+(base) mahendrapatel@Mac project % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   index.html
+	new file:   p1.txt
+
+(base) mahendrapatel@Mac project % pwd
+/Users/mahendrapatel/Desktop/Merge/merge1/project
+(base) mahendrapatel@Mac project % git commit -m "Create two new files"
+[main 1f26418] Create two new files
+ 2 files changed, 52 insertions(+)
+ create mode 100644 index.html
+ create mode 100644 p1.txt
+(base) mahendrapatel@Mac project % git status                          
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+(base) mahendrapatel@Mac project % nano index.html                     
+
+  UW PICO 5.09                        File: index.html                         Modified  
+
+Hello World.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help   ^O WriteOut   ^R Read File  ^Y Prev Pg    ^K Cut Text   ^C Cur Pos    
+^X Exit       ^J Justify    ^W Where is   ^V Next Pg    ^U UnCut Text ^T To Spell   
