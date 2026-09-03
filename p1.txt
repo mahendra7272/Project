@@ -1,0 +1,52 @@
+Last login: Thu Sep  3 09:56:13 on ttys000
+(base) mahendrapatel@Mac Merge % cd project
+cd: no such file or directory: project
+(base) mahendrapatel@Mac Merge % cd merge1 
+(base) mahendrapatel@Mac merge1 % cd project
+(base) mahendrapatel@Mac project % ls
+README.md
+(base) mahendrapatel@Mac project % ls -a
+.		..		.git		README.md
+(base) mahendrapatel@Mac project % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+(base) mahendrapatel@Mac project % nano project
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                       File: project                        Modified  
+
+I am learning GitHub.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help   ^O WriteOut   ^R Read File  ^Y Prev Pg    ^K Cut Text   ^C Cur Pos    
+^X Exit       ^J Justify    ^W Where is   ^V Next Pg    ^U UnCut Text ^T To Spell  
